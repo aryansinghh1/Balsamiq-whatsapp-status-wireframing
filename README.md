@@ -6,8 +6,8 @@ This project contains a wireframe for a WhatsApp Status feature, designed using 
 
 ## Wireframe Overview
 
-![Wireframe](https://balsamiq.cloud/s6l9l15/p91teh7/rC4A4)
 
+[https://balsamiq.cloud/s6l9l15/p91teh7/rC4A4]
 ## How to Use
 - Clone the repository.
 
